@@ -19,8 +19,8 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/oboehm/jira-client</url>
-    <connection>https://github.com/oboehm/jira-client</connection>
+    <url>https://github.com/rcarz/jira-client</url>
+    <connection>https://github.com/rcarz/jira-client</connection>
   </scm>
 
   <developers>
